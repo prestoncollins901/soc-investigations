@@ -18,7 +18,7 @@ A collection of incident response triage reports and SOC investigation exercises
 | Report | Attack Type | Severity |
 |--------|------------|----------|
 | [WordPress Brute-Force & Credential Compromise](./wordpress-ir-triage-report.pdf) | Credential Stuffing / Brute-Force | HIGH |
-
+| [MegaQuagga Publishing — Penetration Test](./megaquagga-pentest-report.pdf) | Remote Code Execution / Vulnerability Exploitation | HIGH |
 ---
 
 ## About
